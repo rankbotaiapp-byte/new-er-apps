@@ -28,11 +28,11 @@ export const BUSINESS: {
   }[];
   posts: string[];
 } = {
-  active: false,
-  id: "client-studio",
-  name: "Client Studio",
+  active: true,
+  id: "NEW ERA BARBERZ",
+  name: "NEW ERA BARBERZ",
   niche: "barber",
-  tagline: "Book through the night.",
+  tagline: "24 hour booking.",
   about: "Paste the Scout file over this object, set active to true, deploy the clone.",
   halo: "ember",
   pin: "4242",
