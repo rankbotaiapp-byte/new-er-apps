@@ -1,0 +1,1 @@
+import{A as e,S as t,gt as n}from"./server-BtxCUieV.js";n();var r=e();function i({className:e,...n}){return(0,r.jsx)(`label`,{className:t(`text-xs font-medium tracking-wide text-muted-foreground`,e),...n})}export{i as t};
