@@ -29,11 +29,11 @@ export const BUSINESS: {
   posts: string[];
 } = {
   active: true,
-  id: "NEW ERA BARBERZ",
-  name: "NEW ERA BARBERZ",
+  id: "new-era-barberz",
+  name: "New Era Barberz",
   niche: "barber",
   tagline: "24 hour booking.",
-  about: "Paste the Scout file over this object, set active to true, deploy the clone.",
+  about: "Book the chair even after close. Fill the rest in Desk.",
   halo: "ember",
   pin: "4242",
   locationName: "",
